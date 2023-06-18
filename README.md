@@ -1,2 +1,5 @@
 # Dapper-Demo
-Dapper, available as a NuGet package, revolutionizes data access for .NET developers by eliminating the need for tedious and repetitive code. It serves as an open-source object-relational mapping (ORM) library designed for .NET and .NET Core applications.
+Dapper, available as a NuGet package, revolutionizes data access for .NET developers by eliminating the need for tedious and repetitive code. It serves as an open-source object-relational mapping (ORM) library designed for .NET and .NET Core applications. Dapper allows you to effortlessly execute raw SQL queries, map the retrieved data to objects, and even execute stored procedures. With its lightweight nature and remarkable speed, Dapper is an excellent choice for applications that demand low latency and high performance.
+
+Dapper offers a simple yet powerful object mapping tool for any .NET language, such as C#. It enables developers to map query results from ADO.NET data readers to instances of business objects with ease. Additionally, Dapper excels in supporting both asynchronous and synchronous database queries, allowing for efficient data retrieval. Furthermore, Dapper incorporates parameterized queries to safeguard against SQL injection attacks, ensuring the security of your application.
+
